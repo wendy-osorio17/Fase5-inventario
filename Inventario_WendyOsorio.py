@@ -1,6 +1,6 @@
 # Problema 3 - Inventario
 # Estudiante: Wendy Katherine Osorio
-# Grupo: 213022B_2204 - Ingeniería de Sistemas
+# Grupo: 213022_770 - Ingeniería de Sistemas
 # Centro: CCAV San Vicente - UNAD
 
 # Matriz: [Codigo, Nombre, Stock actual, Stock minimo]
